@@ -1,16 +1,21 @@
-### Hi there 👋
+## What's Cooking in My Private Repositories? 🍲🔥
+![Static Badge](https://img.shields.io/badge/2023_Highlights-161B22?style=for-the-badge&logo=github&logoColor=white)
 
-<!--
-**icnahom/icnahom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### In Progress👨‍💻
 
-Here are some ideas to get you started:
+- Collaborative Virtual Production Tool
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Uniffi Rust binding generator for Dart
+
+- Simple Copilot alternative using GPT4
+
+<details>
+  <summary>Completed 🎉</summary>
+      
+   - Embedding Go Library in Flutter
+
+</details>
+
+> <sub>Contractual work is not included.</sub>
+
+
