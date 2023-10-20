@@ -9,11 +9,12 @@
 
 - Simple Copilot alternative using GPT4
 
+> 
 <details>
-  <summary>Completed 🎉</summary>
-      
-   - Embedding Go Library in Flutter
-
+  <summary>Completed 🎉</summary>  
+  
+  >  
+  - Embedding Go Library in Flutter
 </details>
 
 > <sub>Contractual work is not included.</sub>
