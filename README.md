@@ -9,6 +9,8 @@
 
 - Simple Copilot alternative using GPT4
 
+- Experimenting with WebGPU using Swift on Android
+
 > 
 <details>
   <summary>Completed 🎉</summary>  
