@@ -7,7 +7,7 @@
 
 - Uniffi Rust binding generator for Dart
 
-- Simple Copilot alternative using GPT4
+- Simple Copilot alternative using GPT-4
 
 - Experimenting with WebGPU using Swift on Android
 
