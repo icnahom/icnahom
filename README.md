@@ -19,6 +19,6 @@
   - Embedding Go Library in Flutter
 </details>
 
-> <sub>Contractual work is not included.</sub>
+> <sub>Contractual work's not included.</sub>
 
 
