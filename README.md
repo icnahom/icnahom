@@ -7,15 +7,14 @@
 
 - Uniffi Rust binding generator for Dart
 
-- Simple Copilot alternative using GPT-4
-
 - Experimenting with WebGPU using Swift on Android
 
 > 
 <details>
   <summary>Completed 🎉</summary>  
   
-  >  
+  >
+  - Simple Copilot alternative using GPT-4
   - Embedding Go Library in Flutter
 </details>
 
