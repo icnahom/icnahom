@@ -14,8 +14,8 @@
   <summary>Completed 🎉</summary>  
   
   >
-  - Simple Copilot alternative using GPT-4
-  - Embedding Go Library in Flutter
+  - VSCode copilot extension using Code Llama
+  - Embedding Go Library in Flutter with Flatbuffers
 </details>
 
 > <sub>Contractual work's not included.</sub>
