@@ -14,7 +14,7 @@
   <summary>Completed 🎉</summary>  
   
   >
-  - VSCode copilot extension using Code Llama
+  - VSCode Co-pilot extension using Code Llama
   - Embedding Go Library in Flutter with Flatbuffers
 </details>
 
