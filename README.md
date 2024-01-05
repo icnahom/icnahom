@@ -1,5 +1,5 @@
 ## What's Cooking in My Private Repositories? 🍲🔥
-![Static Badge](https://img.shields.io/badge/2023_Highlights-161B22?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Highlights-161B22?style=for-the-badge&logo=github&logoColor=white)
 
 ### In Progress👨‍💻
 
